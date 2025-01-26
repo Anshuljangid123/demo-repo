@@ -1,4 +1,6 @@
 # demo-repo
 domo repo github free 
 
-anshul is commiting the changes . 
+anshul 
+
+anshul has removed something and push some thing 
